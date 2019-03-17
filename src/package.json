@@ -1,0 +1,10 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/oliviertassinari/react-swipeable-views/tree/master/docs/src/pages/demos/DemoTabs.js",
+  "dependencies": {
+    "react-swipeable-views": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@material-ui/core": "latest"
+  }
+}
